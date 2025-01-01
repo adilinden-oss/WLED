@@ -14,6 +14,12 @@
 
 A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to control NeoPixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets like the WS2801 and APA102!
 
+## Purpose Of This Fork
+
+This is my fork of WLED to make it easy for myself to flash specific boards I experiment with.  For this purpose my custom `platformio_override.ini` is present in this repo.
+
+**Note: This repo is likely behind the official WLED repo.  Please visit [Aircoookie/WLED](https://github.com/Aircoookie/WLED) for the latest and greatest!**
+
 ## ⚙️ Features
 - WS2812FX library with more than 100 special effects  
 - FastLED noise effects and 50 palettes  
